@@ -1,2 +1,3 @@
-# openlinksw.github.io
-SPA hosting
+# SPA (Single-Page Application) hosting
+
+http://openlinksoftware.github.io/
